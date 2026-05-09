@@ -1,0 +1,294 @@
+2026-05-08 00:13:24,094 - INFO - ✔ Fetched 10 emails
+2026-05-08 00:13:24,102 - INFO - Processing 10 email(s)...
+2026-05-08 00:13:24,108 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 00:13:51,861 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 00:13:51,863 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 00:13:51,863 - INFO - Category: 
+2026-05-08 00:13:51,863 - INFO - Action: spam
+2026-05-08 00:13:51,865 - WARNING - Unknown AI format
+2026-05-08 00:13:58,482 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 00:13:58,483 - INFO - Fallback reply sent
+2026-05-08 00:13:58,483 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 00:14:13,928 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 00:14:13,947 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 00:14:13,947 - INFO - Category: 
+2026-05-08 00:14:13,947 - INFO - Action: spam
+2026-05-08 00:14:13,948 - WARNING - Unknown AI format
+2026-05-08 00:14:19,784 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 00:14:19,785 - INFO - Fallback reply sent
+2026-05-08 00:14:19,786 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 00:14:41,941 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 00:14:41,942 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 00:14:41,942 - INFO - Category: 
+2026-05-08 00:14:41,943 - INFO - Action: spam
+2026-05-08 00:14:41,943 - WARNING - Unknown AI format
+2026-05-08 00:14:50,207 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 00:14:50,208 - INFO - Fallback reply sent
+2026-05-08 00:14:50,209 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 00:15:09,956 - INFO - AI Output: {"action": "spam", "response": "<PROFESSIONAL REPLY ONLY IF ACTION IS REPLY, OTHERWISE LEAVE BLANK>", "category": "SPAM"}
+2026-05-08 00:15:09,956 - INFO - Category: SPAM
+2026-05-08 00:15:09,956 - INFO - Action: spam
+2026-05-08 00:15:09,957 - INFO - Spam email detected
+2026-05-08 00:15:09,957 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 00:15:20,474 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 00:15:20,474 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 00:15:20,475 - INFO - Category: 
+2026-05-08 00:15:20,475 - INFO - Action: spam
+2026-05-08 00:15:20,475 - WARNING - Unknown AI format
+2026-05-08 00:15:26,851 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 00:15:26,852 - INFO - Fallback reply sent
+2026-05-08 00:15:26,852 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 00:15:46,927 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 00:15:46,929 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 00:15:46,930 - INFO - Category: 
+2026-05-08 00:15:46,930 - INFO - Action: spam
+2026-05-08 00:15:46,931 - WARNING - Unknown AI format
+2026-05-08 00:15:54,088 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 00:15:54,089 - INFO - Fallback reply sent
+2026-05-08 00:15:54,090 - INFO - Processing email from: singhabhedika1310@gmail.com
+2026-05-08 00:26:21,849 - ERROR - ❌ Ollama request timed out
+2026-05-08 00:26:22,149 - INFO - AI Output: {"action": "ignore", "response": ""}
+2026-05-08 00:26:22,156 - INFO - Category: 
+2026-05-08 00:26:22,157 - INFO - Action: ignore
+2026-05-08 00:26:22,350 - INFO - Trash email ignored
+2026-05-08 00:26:22,633 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 00:26:48,741 - INFO - AI Output: {"action": "spam", "response": "", "category": "SPAM"}
+2026-05-08 00:26:48,742 - INFO - Category: SPAM
+2026-05-08 00:26:48,742 - INFO - Action: spam
+2026-05-08 00:26:48,742 - INFO - Spam email detected
+2026-05-08 00:26:48,743 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 00:27:13,313 - INFO - AI Output: {"action": "spam", "response": "<professional reply only if ACTION is reply, otherwise leave blank>", "category": "SPAM"}
+2026-05-08 00:27:13,313 - INFO - Category: SPAM
+2026-05-08 00:27:13,313 - INFO - Action: spam
+2026-05-08 00:27:13,314 - INFO - Spam email detected
+2026-05-08 00:27:13,314 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 00:27:27,873 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 00:27:27,874 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 00:27:27,874 - INFO - Category: 
+2026-05-08 00:27:27,874 - INFO - Action: spam
+2026-05-08 00:27:27,874 - WARNING - Unknown AI format
+2026-05-08 00:27:34,081 - INFO - ✔ Email sent to andre.watts@it.weltec.ac.nz
+2026-05-08 00:27:34,081 - INFO - Fallback reply sent
+2026-05-08 00:27:34,082 - INFO - All emails processed
+2026-05-08 11:15:37,091 - WARNING - Failed login attempt
+2026-05-08 11:17:11,841 - INFO - User authenticated successfully
+2026-05-08 11:17:24,948 - INFO - ✔ Fetched 10 safe emails
+2026-05-08 11:17:24,949 - INFO - Processing 10 email(s)...
+2026-05-08 11:17:24,950 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:17:53,280 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 11:17:53,281 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 11:17:53,282 - INFO - Category: 
+2026-05-08 11:17:53,282 - INFO - Action: spam
+2026-05-08 11:17:53,282 - WARNING - Unknown AI format
+2026-05-08 11:18:01,240 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 11:18:01,242 - INFO - Fallback reply sent
+2026-05-08 11:18:01,243 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:18:32,077 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 11:18:32,078 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 11:18:32,078 - INFO - Category: 
+2026-05-08 11:18:32,078 - INFO - Action: spam
+2026-05-08 11:18:32,078 - WARNING - Unknown AI format
+2026-05-08 11:18:38,206 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 11:18:38,206 - INFO - Fallback reply sent
+2026-05-08 11:18:38,207 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:19:17,532 - INFO - AI Output: {"action": "spam", "response": "", "category": "SPAM"}
+2026-05-08 11:19:17,532 - INFO - Category: SPAM
+2026-05-08 11:19:17,532 - INFO - Action: spam
+2026-05-08 11:19:17,532 - INFO - Spam email detected
+2026-05-08 11:19:17,533 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:19:50,166 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 11:19:50,167 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 11:19:50,168 - INFO - Category: 
+2026-05-08 11:19:50,168 - INFO - Action: spam
+2026-05-08 11:19:50,168 - WARNING - Unknown AI format
+2026-05-08 11:19:57,289 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 11:19:57,290 - INFO - Fallback reply sent
+2026-05-08 11:19:57,291 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:20:17,240 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 11:20:17,241 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 11:20:17,241 - INFO - Category: 
+2026-05-08 11:20:17,241 - INFO - Action: spam
+2026-05-08 11:20:17,242 - WARNING - Unknown AI format
+2026-05-08 11:20:22,958 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 11:20:22,959 - INFO - Fallback reply sent
+2026-05-08 11:20:22,960 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:21:03,426 - INFO - AI Output: {"action": "spam", "response": "", "category": "SPAM"}
+2026-05-08 11:21:03,426 - INFO - Category: SPAM
+2026-05-08 11:21:03,427 - INFO - Action: spam
+2026-05-08 11:21:03,427 - INFO - Spam email detected
+2026-05-08 11:21:03,428 - INFO - Processing email from: singhabhedika1310@gmail.com
+2026-05-08 11:21:48,932 - INFO - AI Output: {"action": "spam", "response": "<professional reply only if ACTION is reply, otherwise leave blank>", "category": "SPAM"}
+2026-05-08 11:21:48,932 - INFO - Category: SPAM
+2026-05-08 11:21:48,933 - INFO - Action: spam
+2026-05-08 11:21:48,933 - INFO - Spam email detected
+2026-05-08 11:21:48,934 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 11:22:51,007 - ERROR - ❌ Ollama request timed out
+2026-05-08 11:22:51,014 - INFO - AI Output: {"action": "ignore", "response": ""}
+2026-05-08 11:22:51,015 - INFO - Category: 
+2026-05-08 11:22:51,015 - INFO - Action: ignore
+2026-05-08 11:22:51,017 - INFO - Trash email ignored
+2026-05-08 11:22:51,061 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 11:23:53,174 - ERROR - ❌ Ollama request timed out
+2026-05-08 11:23:53,224 - INFO - AI Output: {"action": "ignore", "response": ""}
+2026-05-08 11:23:53,226 - INFO - Category: 
+2026-05-08 11:23:53,226 - INFO - Action: ignore
+2026-05-08 11:23:53,238 - INFO - Trash email ignored
+2026-05-08 11:23:53,245 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 11:24:55,340 - ERROR - ❌ Ollama request timed out
+2026-05-08 11:24:55,342 - INFO - AI Output: {"action": "ignore", "response": ""}
+2026-05-08 11:24:55,343 - INFO - Category: 
+2026-05-08 11:24:55,344 - INFO - Action: ignore
+2026-05-08 11:24:55,344 - INFO - Trash email ignored
+2026-05-08 11:24:55,347 - INFO - All emails processed
+2026-05-08 11:25:52,200 - INFO - User authenticated successfully
+2026-05-08 11:26:02,519 - INFO - ✔ Fetched 10 safe emails
+2026-05-08 11:26:02,536 - INFO - Processing 10 email(s)...
+2026-05-08 11:26:02,560 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:27:04,712 - ERROR - ❌ Ollama request timed out
+2026-05-08 11:27:04,715 - INFO - AI Output: {"action": "ignore", "response": ""}
+2026-05-08 11:27:04,717 - INFO - Category: 
+2026-05-08 11:27:04,720 - INFO - Action: ignore
+2026-05-08 11:27:04,781 - INFO - Trash email ignored
+2026-05-08 11:27:05,056 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:27:53,359 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 11:27:53,362 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 11:27:53,363 - INFO - Category: 
+2026-05-08 11:27:53,364 - INFO - Action: spam
+2026-05-08 11:27:53,365 - WARNING - Unknown AI format
+2026-05-08 11:27:58,317 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 11:27:58,320 - INFO - Fallback reply sent
+2026-05-08 11:27:58,322 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:28:42,028 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 11:28:42,107 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 11:28:42,120 - INFO - Category: 
+2026-05-08 11:28:42,153 - INFO - Action: spam
+2026-05-08 11:28:42,226 - WARNING - Unknown AI format
+2026-05-08 11:28:49,251 - INFO - ✔ Email sent to no-reply@accounts.google.com
+2026-05-08 11:28:49,384 - INFO - Fallback reply sent
+2026-05-08 11:28:49,506 - INFO - Processing email from: no-reply@accounts.google.com
+2026-05-08 11:29:51,842 - ERROR - ❌ Ollama request timed out
+2026-05-08 11:29:51,972 - INFO - AI Output: {"action": "ignore", "response": ""}
+2026-05-08 11:29:51,973 - INFO - Category: 
+2026-05-08 11:29:52,063 - INFO - Action: ignore
+2026-05-08 11:29:52,421 - INFO - Trash email ignored
+2026-05-08 11:29:52,573 - INFO - Processing email from: singhabhedika1310@gmail.com
+2026-05-08 11:30:54,962 - ERROR - ❌ Ollama request timed out
+2026-05-08 11:30:55,823 - INFO - AI Output: {"action": "ignore", "response": ""}
+2026-05-08 11:30:55,824 - INFO - Category: 
+2026-05-08 11:30:55,824 - INFO - Action: ignore
+2026-05-08 11:30:55,981 - INFO - Trash email ignored
+2026-05-08 11:30:56,392 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 11:31:59,969 - ERROR - ❌ Ollama request timed out
+2026-05-08 11:31:59,976 - INFO - AI Output: {"action": "ignore", "response": ""}
+2026-05-08 11:31:59,977 - INFO - Category: 
+2026-05-08 11:31:59,977 - INFO - Action: ignore
+2026-05-08 11:31:59,978 - INFO - Trash email ignored
+2026-05-08 11:31:59,980 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 11:33:02,056 - ERROR - ❌ Ollama request timed out
+2026-05-08 11:33:02,059 - INFO - AI Output: {"action": "ignore", "response": ""}
+2026-05-08 11:33:02,060 - INFO - Category: 
+2026-05-08 11:33:02,060 - INFO - Action: ignore
+2026-05-08 11:33:02,061 - INFO - Trash email ignored
+2026-05-08 11:33:02,064 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 11:33:57,758 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 11:33:57,801 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 11:33:57,802 - INFO - Category: 
+2026-05-08 11:33:57,802 - INFO - Action: spam
+2026-05-08 11:33:57,815 - WARNING - Unknown AI format
+2026-05-08 11:34:02,645 - INFO - ✔ Email sent to andre.watts@it.weltec.ac.nz
+2026-05-08 11:34:02,645 - INFO - Fallback reply sent
+2026-05-08 11:34:02,646 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-08 11:34:54,713 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 11:34:54,715 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 11:34:54,716 - INFO - Category: 
+2026-05-08 11:34:54,717 - INFO - Action: spam
+2026-05-08 11:34:54,718 - WARNING - Unknown AI format
+2026-05-08 11:34:59,446 - INFO - ✔ Email sent to andre.watts@it.weltec.ac.nz
+2026-05-08 11:34:59,447 - INFO - Fallback reply sent
+2026-05-08 11:34:59,448 - INFO - Processing email from: andrewatts510@gmail.com
+2026-05-08 11:35:54,191 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-08 11:35:54,193 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-08 11:35:54,193 - INFO - Category: 
+2026-05-08 11:35:54,193 - INFO - Action: spam
+2026-05-08 11:35:54,194 - WARNING - Unknown AI format
+2026-05-08 11:35:58,796 - INFO - ✔ Email sent to andrewatts510@gmail.com
+2026-05-08 11:35:58,797 - INFO - Fallback reply sent
+2026-05-08 11:35:58,798 - INFO - All emails processed
+2026-05-09 19:45:41,534 - INFO - User authenticated successfully
+2026-05-09 19:45:52,846 - INFO - ✔ Fetched 10 safe emails
+2026-05-09 19:45:52,849 - INFO - Processing 10 email(s)...
+2026-05-09 19:45:52,850 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-09 19:46:31,789 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-09 19:46:31,791 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-09 19:46:31,792 - INFO - Category: 
+2026-05-09 19:46:31,792 - INFO - Action: spam
+2026-05-09 19:46:31,792 - WARNING - Unknown AI format
+2026-05-09 19:46:38,720 - INFO - ✔ Email sent to andre.watts@it.weltec.ac.nz
+2026-05-09 19:46:38,721 - INFO - Fallback reply sent
+2026-05-09 19:46:38,723 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-09 19:46:56,068 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-09 19:46:56,069 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-09 19:46:56,069 - INFO - Category: 
+2026-05-09 19:46:56,070 - INFO - Action: spam
+2026-05-09 19:46:56,070 - WARNING - Unknown AI format
+2026-05-09 19:47:02,891 - INFO - ✔ Email sent to andre.watts@it.weltec.ac.nz
+2026-05-09 19:47:02,893 - INFO - Fallback reply sent
+2026-05-09 19:47:02,894 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-09 19:47:40,519 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-09 19:47:40,521 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-09 19:47:40,522 - INFO - Category: 
+2026-05-09 19:47:40,522 - INFO - Action: spam
+2026-05-09 19:47:40,523 - WARNING - Unknown AI format
+2026-05-09 19:47:46,581 - INFO - ✔ Email sent to andre.watts@it.weltec.ac.nz
+2026-05-09 19:47:46,582 - INFO - Fallback reply sent
+2026-05-09 19:47:46,583 - INFO - Processing email from: andrewatts510@gmail.com
+2026-05-09 19:47:59,190 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-09 19:47:59,190 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-09 19:47:59,191 - INFO - Category: 
+2026-05-09 19:47:59,191 - INFO - Action: spam
+2026-05-09 19:47:59,191 - WARNING - Unknown AI format
+2026-05-09 19:48:05,598 - INFO - ✔ Email sent to andrewatts510@gmail.com
+2026-05-09 19:48:05,601 - INFO - Fallback reply sent
+2026-05-09 19:48:05,601 - INFO - Processing email from: singhabhedika1310@gmail.com
+2026-05-09 19:48:26,357 - INFO - AI Output: {"action": "spam", "response": "<professional reply only if ACTION is reply, otherwise leave blank>", "category": "SPAM"}
+2026-05-09 19:48:26,357 - INFO - Category: SPAM
+2026-05-09 19:48:26,357 - INFO - Action: spam
+2026-05-09 19:48:26,357 - INFO - Spam email detected
+2026-05-09 19:48:26,358 - INFO - Processing email from: andrewatts510@gmail.com
+2026-05-09 19:48:52,600 - INFO - AI Output: {"action": "spam", "response": "<professional response only if ACTION is reply, otherwise leave blank>", "category": "SPAM"}
+2026-05-09 19:48:52,601 - INFO - Category: SPAM
+2026-05-09 19:48:52,601 - INFO - Action: spam
+2026-05-09 19:48:52,602 - INFO - Spam email detected
+2026-05-09 19:48:52,602 - INFO - Processing email from: andrewatts510@gmail.com
+2026-05-09 19:49:14,032 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-09 19:49:14,033 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-09 19:49:14,033 - INFO - Category: 
+2026-05-09 19:49:14,033 - INFO - Action: spam
+2026-05-09 19:49:14,034 - WARNING - Unknown AI format
+2026-05-09 19:49:19,789 - INFO - ✔ Email sent to andrewatts510@gmail.com
+2026-05-09 19:49:19,790 - INFO - Fallback reply sent
+2026-05-09 19:49:19,790 - INFO - Processing email from: andrewatts510@gmail.com
+2026-05-09 19:49:37,494 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-09 19:49:37,495 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-09 19:49:37,496 - INFO - Category: 
+2026-05-09 19:49:37,496 - INFO - Action: spam
+2026-05-09 19:49:37,496 - WARNING - Unknown AI format
+2026-05-09 19:49:43,538 - INFO - ✔ Email sent to andrewatts510@gmail.com
+2026-05-09 19:49:43,539 - INFO - Fallback reply sent
+2026-05-09 19:49:43,540 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-09 19:49:57,623 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-09 19:49:57,624 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-09 19:49:57,624 - INFO - Category: 
+2026-05-09 19:49:57,624 - INFO - Action: spam
+2026-05-09 19:49:57,624 - WARNING - Unknown AI format
+2026-05-09 19:50:03,493 - INFO - ✔ Email sent to andre.watts@it.weltec.ac.nz
+2026-05-09 19:50:03,494 - INFO - Fallback reply sent
+2026-05-09 19:50:03,495 - INFO - Processing email from: andre.watts@it.weltec.ac.nz
+2026-05-09 19:50:17,021 - WARNING - ⚠️ Invalid AI output, using fallback
+2026-05-09 19:50:17,022 - INFO - AI Output: {"action": "spam", "response": ""}
+2026-05-09 19:50:17,023 - INFO - Category: 
+2026-05-09 19:50:17,023 - INFO - Action: spam
+2026-05-09 19:50:17,023 - WARNING - Unknown AI format
+2026-05-09 19:50:22,539 - INFO - ✔ Email sent to andre.watts@it.weltec.ac.nz
+2026-05-09 19:50:22,540 - INFO - Fallback reply sent
+2026-05-09 19:50:22,541 - INFO - All emails processed
